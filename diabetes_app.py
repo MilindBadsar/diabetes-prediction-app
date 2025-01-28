@@ -88,5 +88,5 @@ if st.button("Predict"):
         st.success("The model predicts that you are not diabetic.")
 
 # Uncomment the line to train models on initial run
-# train_models()
+train_models()
 
